@@ -6,7 +6,7 @@ window.onload=function(){<br>
 		  animate(obj1,{style:key,style1:key})<br>
 		 })<br>
 	}<br>
-	#功能说明
+	#功能说明<br>
 	Uniform animation original animation plug-in, <br>
 	support,<br>
 	support the buffer animation, <br>
